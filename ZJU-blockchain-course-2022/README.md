@@ -42,9 +42,8 @@
 
 登陆
 
-![1667820724345](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667820724345.png)
-
-![1667820791012](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667820791012.png)
+![image](https://user-images.githubusercontent.com/96375650/200304980-58a1e788-c9e7-447a-a294-a34b255ddd7d.png)
+![image](https://user-images.githubusercontent.com/96375650/200305071-6cacba7a-c217-4575-a4c7-8bc7e889c48c.png)
 
 领取通证积分
 
