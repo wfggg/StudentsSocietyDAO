@@ -46,42 +46,37 @@
 ![image](https://user-images.githubusercontent.com/96375650/200305071-6cacba7a-c217-4575-a4c7-8bc7e889c48c.png)
 
 领取通证积分
-
-![1667820832561](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667820832561.png)
-
-![1667820856137](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667820856137.png)
+![image](https://user-images.githubusercontent.com/96375650/200305351-c83a6244-d143-47d5-aee6-d292b965b152.png)
+![image](https://user-images.githubusercontent.com/96375650/200305411-aa9f8c1e-1993-4be5-aa34-b3b164b2160d.png)
 
 发起提案
 
-![1667820899164](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667820899164.png)
+![image](https://user-images.githubusercontent.com/96375650/200305467-0414a9b5-9eaf-4ad8-8431-0600b67fa232.png)
 
-![1667820921011](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667820921011.png)
-
-![1667820949253](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667820949253.png)
+![image](https://user-images.githubusercontent.com/96375650/200305522-b605f723-b98f-4243-bec7-54757b7f6d77.png)
+![image](https://user-images.githubusercontent.com/96375650/200305578-39876414-465d-445d-8848-37b6364dde9a.png)
 
 投赞成票
 
-![1667821145341](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821145341.png)
+![image](https://user-images.githubusercontent.com/96375650/200305653-7e07bb1f-47da-4f1f-8b83-0aeee981fcae.png)
 
-![1667821160808](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821160808.png)
+![image](https://user-images.githubusercontent.com/96375650/200305691-225df409-7ab4-4bfc-8377-8d7a54b3858b.png)
 
-![1667821188060](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821188060.png)
-
-![1667821205335](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821205335.png)
+![image](https://user-images.githubusercontent.com/96375650/200305745-189d0893-8252-4cbe-a3df-b15a5745cd3a.png)
+![image](https://user-images.githubusercontent.com/96375650/200305794-1eaa32ff-976b-4ca5-a96f-31a4aa1a7a07.png)
 
 投反对票
 
-![1667821237604](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821237604.png)
+![image](https://user-images.githubusercontent.com/96375650/200305854-aaf4fa2e-052c-48ca-9ca5-79ea697bbf33.png)
 
-![1667821253298](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821253298.png)
+![image](https://user-images.githubusercontent.com/96375650/200305907-6e4949cc-face-4db9-abf5-7129a8ec8292.png)
+![image](https://user-images.githubusercontent.com/96375650/200305965-940dbfec-4a12-46c3-abe6-16e34ec05e4b.png)
 
-![1667821267211](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821267211.png)
-
-![1667821283730](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821283730.png)
+![image](https://user-images.githubusercontent.com/96375650/200306017-9f860f82-99ed-467f-81a3-73a4aaddb861.png)
 
 投票结束后提案赞成票多于反对票，提案提出者获得1000通证积分
 
-![1667821342879](C:\Users\86184\AppData\Roaming\Typora\typora-user-images\1667821342879.png)
+![image](https://user-images.githubusercontent.com/96375650/200306062-4aca67d6-b584-41b7-96aa-9fe9e519cf26.png)
 
 ## 参考内容
 
